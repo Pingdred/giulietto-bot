@@ -13,7 +13,7 @@ Giulietto è un bot Telegram scritto in PHP per la gestione di uno studentato. O
 - Notifiche giornaliere degli studenti ed ospiti in arrivo
 
 ## Implementazione
-Non sono state utilizzate librerie PHP per l'interazione con le API di Telegram, poiché ho scelto di scrivere una piccola classe con i metodi essenziali per capire come funzionano le API di Telegram. 
+Non sono state utilizzate librerie PHP per l'interazione con le API di Telegram, poiché ho scelto di scrivere una piccola classe con i metodi essenziali per capire meglio il funzionamento delle API. 
 
 ## Note
 Il progetto è incompleto e non è più in fase di sviluppo.
